@@ -1,12 +1,14 @@
 # 📋 TodoList — Modern Task Management App
 
-A sleek, responsive, and interactive To-Do List web application built with **React 19**, **Vite**, and **Framer Motion**. Designed with a modern glassmorphism aesthetic, ambient glow background animations, dark/light theme switching, dynamic progress tracking, and instant LocalStorage persistence.
-
-[![Live Demo](https://img.shields.io/badge/live-demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://todo-list-theta-lyart.vercel.app/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketpal15/TodoList)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-TODO--LIST--THETA--LYART.VERCEL.APP-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://todo-list-theta-lyart.vercel.app/)
 [![React 19](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketpal15/TodoList)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+An interactive, sleek, and modern To-Do List web application built with **React 19**, **Vite**, and **Framer Motion**. Designed with a modern glassmorphism aesthetic, ambient glow background animations, dark/light theme switching, dynamic progress tracking, and instant LocalStorage persistence.
+
+[![Live Demo](https://img.shields.io/badge/%F0%9F%94%97%20Live%20Demo-https%3A%2F%2Ftodo--list--theta--lyart.vercel.app%2F-0070f3?style=for-the-badge)](https://todo-list-theta-lyart.vercel.app/)
 
 ---
 
